@@ -14,7 +14,7 @@ If you use the source code for your research, you should cite the following pape
   year={2024},
   volume={},
   number={},
-  pages={tba},
-  doi={tba}
+  pages={3575-3579},
+  doi={10.1109/ICASSP48485.2024.10448350}
 }
 ```
