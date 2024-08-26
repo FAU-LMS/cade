@@ -1,7 +1,7 @@
 # GUNet
 CADE -  Color Agnostic Cross Spectral Disparity Estimation 
 
-Coming soon...
+This repository provides code to generate all 11 CADE images out of an RGB image as well as an LNI image from the red channel of this RGB image.
 
 ## License
 The source code is licensed using CC-BY-SA.
